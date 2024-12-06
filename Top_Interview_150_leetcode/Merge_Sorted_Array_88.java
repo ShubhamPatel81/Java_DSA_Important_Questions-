@@ -40,7 +40,7 @@ class Solution {
       int m = 3;
       int [] num2= {2,5,6};
       int n= 3;
-        Solution solution = new Solution();
+        H_Index_274 solution = new H_Index_274();
         solution.merge(nums1,m, num2, n);
 
         System.out.println("Merged Array: " + Arrays.toString(nums1));
